@@ -1,0 +1,1 @@
+def count(md): return {'words': len(md.split()), 'read_min': 1}
